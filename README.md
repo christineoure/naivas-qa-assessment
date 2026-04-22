@@ -20,7 +20,7 @@ An automated end-to-end (E2E) testing suite for the Naivas demo e-commerce platf
 
 **Clone the repo:**
    ```bash
-   git clone [https://github.com/yourusername/naivas_demo_test.git](https://github.com/yourusername/naivas_demo_test.git)
+   git clone [https://github.com/christineoure/naivas_demo_test.git](https://github.com/christineoure/naivas_demo_test.git)
    cd naivas_demo_test
    ```
 
